@@ -1,6 +1,8 @@
 # This is my super cool paper
 Written by:ME !
 And all of my friends, who are great.
+My affiliation: McGill University
+
 
 ##Introduction
 This is a very important problem that I have been working on.
